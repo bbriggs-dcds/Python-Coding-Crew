@@ -1,9 +1,13 @@
 
 # Week 1 - Introduction to Programming
 
-## Goals to Accomplish
+## Table of Contents
 
-1) Introduce Progamming as a whole  
+1. [Introduction](#introduction)
+1. [Comments](#comments)
+1. [Variables](#variables)
+
+1) Introduce Progamming as a whole <a name="introduction"></a>
 
    1) What is a Programming Language -  
       <https://youtu.be/EGQh5SZctaE>  
@@ -33,7 +37,17 @@ hello_world.py
    print("Hello World!")
    ```
 
-1) Variables and Data types
+1) Comments <a name="comments"></a>
+   - **Definition**: Comments are lines in the code that are not executed by the program.
+   - **Purpose**: Comments help us keep code readable, and understandable by providing context and by explaining why or how something works.
+   - In Python, comments begin with "#", and everything after will be ignored.
+
+      ```python
+      # This is a comment
+      player_score = 100 # Assigning initial score to the player
+      ```
+
+1) Variables and Data types <a name="variables"></a>
    - **Defintion**: A variable is a symbolic name given to pieces of data that can be later referenced or changed when the program runs. Variables help us store information that we can later use or manipulate if needed.
    - **Naming Conventions**:
      - Variable names typically start with a lowercase letter or an underscore ("_")
@@ -58,6 +72,8 @@ hello_world.py
          ```python
          var1 = 0
          ```
+
+     - You can nest variables too, by assigning it to another variable.
 
          ```python
          num1 = 4
