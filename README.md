@@ -3,15 +3,10 @@
 
 This is a crash course for 4th and 5th students looking to dive into the world of programming by introducing them to the easy-to-digest and highly versatile, Python programming language.
 
-## Week 1: [Introduction, Comments and Variables](#introduction)
-
-## Week 2: [Conditionals and Loops](#conditionals-and-loops)
-
-## Week 3: [Lists and Data Structures](#lists-and-data-structures)
-
-## Week 4: [Functions](#functions)
-
-## Week 5-8: ~~~
+1. [Introduction](#introduction)
+1. [Variables and Comments](#variables-and-comments)
+1. [Conditionals and Looping](#conditionals-and-loops)
+1. [Functions](#functions)
 
 ### Overview for Week 1 <a name="introduction"></a>
 
@@ -25,6 +20,8 @@ This is a crash course for 4th and 5th students looking to dive into the world o
     ```python
     print("Hello world!")
     ```
+  
+### Over for Week 2 <a name="variables-and-comments"></a>
 
 - Variables
   - What are they used for?
@@ -32,9 +29,9 @@ This is a crash course for 4th and 5th students looking to dive into the world o
 - Comments
   - Why do you need comments?
   - How do you make a comment?
+- Docstrings
+  - What sort of information could you find in a docstring?
 
-### Overview for Week 2 <a name="conditionals-and-loops"></a>
-
-### Overview for Week 3 <a name="lists-and-data-structures"></a>
+### Overview for Week 3 <a name="conditionals-and-loops"></a>
 
 ### Overview for Week 4 <a name="functions"></a>
