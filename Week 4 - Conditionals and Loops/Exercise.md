@@ -18,7 +18,7 @@ In this activity, you'll create a program to classify student grades based on th
     ```python
     user_input = input("Please enter a numerical score: ")
 
-    if user_input >= 90 and < 100:
+    if user_input >= 90 and user_input < 100:
         print("Grade: A")
     elif
     ... 
