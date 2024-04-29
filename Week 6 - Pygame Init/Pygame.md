@@ -51,7 +51,12 @@
 
 4) Additional steps
 
-    - We can even set the title of the Pygame window using "pygame.display.set_caption()"
+    - We can set the title of the Pygame window
+
+    ```python
+    pygame.display.set_caption("Moving Ball")
+    ```
+
     - Lets draw a circle to the screen, first we'll want to define some properties by creating variables for the circle to use.
 
     ```python
